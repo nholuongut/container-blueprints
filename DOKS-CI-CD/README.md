@@ -1,5 +1,8 @@
 # DOKS CI/CD using Tekton, Argo CD and Knative Serverless Applications
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 ## Introduction
 
 This blueprint will show you how to implement a CI/CD solution using free and popular open source implementations that run on Kubernetes clusters natively.
@@ -1311,3 +1314,18 @@ You can browse following resources to learn more:
 - [Knative Eventing Code Samples](https://knative.dev/docs/samples/eventing)
 - [Knative GitHub Source Component Documentation and Examples](https://github.com/knative/docs/tree/main/code-samples/eventing/github-source)
 - [Tekton Catalog](https://hub.tekton.dev)
+
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.

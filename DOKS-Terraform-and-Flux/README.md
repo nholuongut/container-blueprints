@@ -535,3 +535,18 @@ Flux supports other controllers, such as the following, which you can configure 
 - [Image Automation Controller](https://fluxcd.io/docs/components/image) which can update a Git repository when new container images are available.
 
 See [Flux CD Guides](https://fluxcd.io/docs/guides) for more examples, such as how to structure your Git repositories, as well as application manifests for multi-cluster and multi-environment setups.
+
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
+
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.

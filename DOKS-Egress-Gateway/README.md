@@ -1,4 +1,6 @@
 # Setting up a DOKS Egress Gateway using Crossplane and Static Routes Operator
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
 
 ## Overview
 
@@ -880,8 +882,18 @@ Above command removes the finalizer field from the resource, thus allowing Kuber
 
 In this tutorial you learned how to use Crossplane to create and manage an egress Gateway resource for your DOKS cluster. This way, external services (e.g. database), will see a single source IP in the packets coming from your DOKS cluster, thus making firewall rules management easier on the other end. Also, you learned how to use the static routes operator, to manage specific routes for the egress functionality.
 
-Additional resources:
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
 
-- [Static Routes Operator](https://github.com/digitalocean/k8s-staticroute-operator) project page.
-- [Crossplane Docs](https://docs.crossplane.io/latest/) page.
-- [DigitalOcean Droplets as NAT Gateways](https://docs.digitalocean.com/products/networking/vpc/how-to/configure-droplet-as-gateway/) tutorial.
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
+

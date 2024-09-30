@@ -1,6 +1,9 @@
 
 # Automatic Node Repair on DigitalOcean Kubernetes
 
+![](https://i.imgur.com/waxVImv.png)
+### [View all Roadmaps](https://github.com/nholuongut/all-roadmaps) &nbsp;&middot;&nbsp; [Best Practices](https://github.com/nholuongut/all-roadmaps/blob/main/public/best-practices/) &nbsp;&middot;&nbsp; [Questions](https://www.linkedin.com/in/nholuong/)
+
 ## Introduction
 
 When a node in a DigitalOcean Kubernetes cluster is unhealthy or not ready, replacing the node is manual and cumbersome. The cluster will operate at lower capacity without replacing the nodes because the unhealthy nodes will not run any Pods.
@@ -297,7 +300,17 @@ As you can see, the node was automatically recycled.
 
 In conclusion, while automatic recovery of cluster nodes is a valuable feature, it is crucial to prioritize node health monitoring and load management to prevent frequent node failures. In addition, properly setting Pod resource limits, such as setting and using fair values, can also help avoid overloading nodes. By adopting these best practices, you can ensure the stability and reliability of your Kubernetes cluster, avoiding costly downtime and service disruptions.
 
-### References
+I'm are always open to your feedback.  Please contact as bellow information:
+### [Contact ]
+* [Name: nho Luong]
+* [Skype](luongutnho_skype)
+* [Github](https://github.com/nholuongut/)
+* [Linkedin](https://www.linkedin.com/in/nholuong/)
+* [Email Address](luongutnho@hotmail.com)
 
-- [GitHub](https://github.com/nholuongut/container-blueprints/tree/main/DOKS-automatic-node-repair)
-- [Digital Mobius](https://github.com/Qovery/digital-mobius)
+![](https://i.imgur.com/waxVImv.png)
+![](bitfield.png)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
+
+# License
+* Nho Luong (c). All Rights Reserved.
